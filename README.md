@@ -6,11 +6,14 @@ The **Dual Pixel Studio Link** is a lightweight, single-script bridge that conne
 
 Every pixel you draw and frame you animate updates instantly inside Unity. No cables, no manual exporting, no hassle.
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Insert+GIF+of+Live+Sync+Here" alt="Live Sync Demo" width="600"/>
+<div align="center">
+  
+  ### 📺 Live Demo
+  https://github.com/user-attachments/assets/5a0e99d6-9484-40ef-af51-9adccd694ef4
+
   <br>
-  <em>Draw on your mobile Device, see it instantly in Unity.</em>
-</p>
+  <em>Draw on your mobile device, see it instantly in Unity.</em>
+</div>
 
 ## Features
 
