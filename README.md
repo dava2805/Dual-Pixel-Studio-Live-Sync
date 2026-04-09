@@ -58,12 +58,3 @@ The bridge pulls data seamlessly via the following local endpoints:
 * The app uses **Port 8642** (HTTP) for data transfer and **Port 8644** (UDP) for auto-discovery. Ensure these ports are not blocked by your firewall.
 * If auto-discovery fails, you can manually enter your device's IP address (displayed in the app) into the Unity window.
 
----
-
-## Support the Project
-
-Dual Pixel Studio is completely free, privacy-first, and built by a solo developer. If this tool saves you hours of tedious exporting, consider leaving a tip in the app's "Tip Jar" to unlock a Pixel Pet companion for your home screen!
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6df8e202-79be-465b-a219-59c2a6e3d19c" alt="Pixel Pet" width="300"/>
-</p>
