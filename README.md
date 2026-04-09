@@ -65,5 +65,5 @@ The bridge pulls data seamlessly via the following local endpoints:
 Dual Pixel Studio is completely free, privacy-first, and built by a solo developer. If this tool saves you hours of tedious exporting, consider leaving a tip in the app's "Tip Jar" to unlock a Pixel Pet companion for your home screen!
 
 <p align="center">
-  <img src="https://via.placeholder.com/300x150?text=Insert+Pixel+Pet+Image+Here" alt="Pixel Pet" width="300"/>
+  <img src="https://github.com/user-attachments/assets/6df8e202-79be-465b-a219-59c2a6e3d19c" alt="Pixel Pet" width="300"/>
 </p>
