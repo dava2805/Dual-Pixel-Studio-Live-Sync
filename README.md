@@ -8,7 +8,7 @@ Every pixel you draw and frame you animate updates instantly inside Unity. No ca
 
 <div align="center">
   
-  ### 📺 Live Demo
+  ### Live Demo
   https://github.com/user-attachments/assets/5a0e99d6-9484-40ef-af51-9adccd694ef4
 
   <br>
@@ -27,7 +27,7 @@ Every pixel you draw and frame you animate updates instantly inside Unity. No ca
 ### 1. Get the App (It's Free)
 Download **Dual Pixel Studio** on your iPad or iPhone. It's a professional-grade pixel art editor built specifically for indie game devs. (Zero ads, zero subscriptions).
 
-👉 **[Download 'Dual Pixel Studio' on the App Store]**
+**[Download 'Dual Pixel Studio' on the App Store]**
 
 ### 2. Add the Script to Unity
 1. Download the `DualPixelStudioLink.cs` file from this repository.
@@ -60,7 +60,7 @@ The bridge pulls data seamlessly via the following local endpoints:
 
 ---
 
-## 💡 Support the Project
+## Support the Project
 
 Dual Pixel Studio is completely free, privacy-first, and built by a solo developer. If this tool saves you hours of tedious exporting, consider leaving a tip in the app's "Tip Jar" to unlock a Pixel Pet companion for your home screen!
 
