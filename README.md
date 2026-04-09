@@ -9,7 +9,7 @@ Every pixel you draw and frame you animate updates instantly inside Unity. No ca
 <p align="center">
   <img src="https://via.placeholder.com/600x300?text=Insert+GIF+of+Live+Sync+Here" alt="Live Sync Demo" width="600"/>
   <br>
-  <em>Draw on your iPad, see it instantly in Unity.</em>
+  <em>Draw on your mobile Device, see it instantly in Unity.</em>
 </p>
 
 ## Features
