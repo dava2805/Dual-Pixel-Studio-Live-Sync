@@ -7,10 +7,10 @@ The **Dual Pixel Studio Link** is a lightweight, single-script bridge that conne
 Every pixel you draw and frame you animate updates instantly inside your game scene. No cables, no manual exporting, no hassle.
 
 <div align="center">
-  
-  ### Live Demo
-  https://github.com/user-attachments/assets/5a0e99d6-9484-40ef-af51-9adccd694ef4
-
+  <h3>Live Demo</h3>
+</div>
+https://github.com/user-attachments/assets/5a0e99d6-9484-40ef-af51-9adccd694ef4
+<div align="center">
   <br>
   <em>Draw on your mobile device, see it instantly in your game.</em>
 </div>
