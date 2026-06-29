@@ -8,12 +8,13 @@ Every pixel you draw and frame you animate updates instantly inside your game sc
 
 <div align="center">
   <h3>Live Demo</h3>
-</div>
-https://github.com/user-attachments/assets/5a0e99d6-9484-40ef-af51-9adccd694ef4
-<div align="center">
-  <br>
+  
+  <video src="https://github.com/user-attachments/assets/5a0e99d6-9484-40ef-af51-9adccd694ef4" width="80%" controls="controls" muted="muted" autoplay="autoplay"></video>
+
+  <br><br>
   <em>Draw on your mobile device, see it instantly in your game.</em>
 </div>
+
 
 ## Features
 
