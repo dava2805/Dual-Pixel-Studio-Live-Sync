@@ -32,7 +32,7 @@ Download **Dual Pixel Studio** on your iPad or iPhone. It's a professional-grade
 **[Download 'Dual Pixel Studio' on the App Store]**
 
 ### 2. Connect & Start the Server
-1. In the **Dual Pixel Studio app**, open your project and tap the **Engine Sync (Gamepad Icon)** in the toolbar to start the local server.
+1. In the **Dual Pixel Studio app**, open your project and tap the **Engine Sync (Gamepad Icon)** in the toolbar of a canvas to start the local server.
 
 ---
 
